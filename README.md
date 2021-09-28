@@ -4,10 +4,10 @@ Installation steps:-
 1. Download or clone the repository.
 2. Set up database credentials on .env file
 3. Run commands -
-    php artisan migrate
-    php artisan db:seed
-    php artisan optimize
-    php artisan serve
+    1. php artisan migrate
+    2. php artisan db:seed
+    3. php artisan optimize
+    4. php artisan serve
 
 
 Steps for calculating distance between two pincodes manually
